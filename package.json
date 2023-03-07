@@ -1,0 +1,25 @@
+{
+  "name": "intro_to_blockchain",
+  "version": "1.0.0",
+  "description": "my first smart contract",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pletniri/intro_to_blockchain.git"
+  },
+  "keywords": [
+    "Irina"
+  ],
+  "author": "pletniri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pletniri/intro_to_blockchain/issues"
+  },
+  "homepage": "https://github.com/pletniri/intro_to_blockchain#readme",
+  "dependencies": {
+    "sha256": "^0.2.0"
+  }
+}
